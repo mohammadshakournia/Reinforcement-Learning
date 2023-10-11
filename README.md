@@ -58,7 +58,7 @@ I welcome contributions, feedback, and discussions. If you have ideas or improve
 
 ## Contact
 
-If you have questions or want to discuss reinforcement learning topics, you can reach out to me via email at [your@email.com] or connect on [LinkedIn](https://www.linkedin.com/in/your-profile/).
+If you have questions or want to discuss reinforcement learning topics, you can reach out to me via email at [mohammadshakournia@email.com] or connect on [LinkedIn](https://www.linkedin.com/in/mohammadshakournia/).
 
 Let's embark on a journey through the exciting world of reinforcement learning!
 
